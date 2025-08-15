@@ -14,7 +14,6 @@ This extension lets you **ask a question directly about the video you're watchin
 ✅ **AI-Powered Q&A** — Ask any question about the current YouTube video.  
 ✅ **Real-Time Transcript Analysis** — Parses video captions for context-aware responses.  
 ✅ **Modern UI** — Clean and responsive popup interface.  
-✅ **Voice Support** — Ask questions with your voice (optional).  
 ✅ **Privacy First** — No data stored; everything is processed securely.
 
 ---
