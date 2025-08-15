@@ -1,0 +1,30 @@
+html,
+body,
+#root {
+    width: 450px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: linear-gradient(to bottom, #e8f1ff, #ffffff);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: none;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 4px;
+}

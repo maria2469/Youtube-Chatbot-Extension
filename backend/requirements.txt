@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+youtube-transcript-api
+langchain
+langchain-community
+langchain-core
+langchain-cohere
+langchain-groq
+faiss-cpu
+cohere
+groq
